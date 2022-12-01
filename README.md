@@ -1,4 +1,4 @@
-# CECR(Cloud and Edge Collaborative Reasoning System)
+# QCOR(Query-Customized Online Reason System)
 
 ## Experiment Setup
 
